@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-game 'gta5'
+games { 'rdr3', 'gta5' }
 author '<Discord : Errorism#0009>'
 description 'This resource is created by Errorism\'s Scripts'
 lua54 'yes'
